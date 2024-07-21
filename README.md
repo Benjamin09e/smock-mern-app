@@ -15,7 +15,7 @@ Pour installer et configurer Smokshop, suivez ces étapes :
 1. Clonez le dépôt :
     ```
     git clone <URL_DU_DEPOT>
-    cd smok-mern-app
+    cd smock-mern-app
     ```
 
 2. Installez les dépendances :
